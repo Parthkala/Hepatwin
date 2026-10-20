@@ -1,7 +1,8 @@
 # HepaTwin: Clinical AI/ML Digital Twin for Chronic Hepatitis and Steatohepatitis Progression
 
 > Proof of concept for clinical decision support. Not an approved medical device.  
-> Developed for the Happiest Health Digital Twin Challenge Hackathon 2026.
+> Developed for the Happiest Health Digital Twin Challenge Hackathon 2026.  
+> Permanent Live Production Workstation: https://hepatwin.vercel.app
 
 ---
 
@@ -198,6 +199,7 @@ All documentation files, diagrams, test scripts, and source code referenced in t
 * Every link in this README uses relative paths within this repository.
 * No files are hosted behind private Google Drive links, authentication gates, or third-party access barriers.
 * Anyone cloning this repository has immediate offline access to all PDF diagrams, PowerPoint decks, test suites, and source code.
+* The digital twin workstation is permanently accessible over public HTTPS at https://hepatwin.vercel.app with zero authentication barriers or sleep states.
 
 ---
 

@@ -1,0 +1,44 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply bg-canvas text-clinical-textPrimary font-sans antialiased m-0 p-0 selection:bg-accent-primary selection:text-white;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  /* Force tabular numbers for all numerical data in clinical display */
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Hairline borders and clinical table styling */
+.border-hairline {
+  border-width: 1px;
+  border-color: #E2E6EA;
+}
+
+/* Custom scrollbars for high-density clinical panels */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F4F6F8;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD3DA;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #7A8C9E;
+}
+
+/* Focus rings with high contrast */
+*:focus-visible {
+  outline: 2px solid #006D77;
+  outline-offset: 1px;
+}

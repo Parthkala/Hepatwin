@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Rakesh Verma",
+    "age": 48,
+    "sex": "M",
+    "etiology": "Alcohol",
+    "visits": [
+      {
+        "month": 0,
+        "AST": 96,
+        "ALT": 58,
+        "Platelets": 132
+      },
+      {
+        "month": 6,
+        "AST": 110,
+        "ALT": 70,
+        "Platelets": 120
+      },
+      {
+        "month": 12,
+        "AST": 130,
+        "ALT": 80,
+        "Platelets": 110
+      },
+      {
+        "month": 18,
+        "AST": 150,
+        "ALT": 90,
+        "Platelets": 100
+      }
+    ]
+  },
+  {
+    "name": "Sunita Devi",
+    "age": 36,
+    "sex": "F",
+    "etiology": "HBV",
+    "visits": [
+      {
+        "month": 0,
+        "AST": 44,
+        "ALT": 52,
+        "Platelets": 210
+      },
+      {
+        "month": 9,
+        "AST": 48,
+        "ALT": 55,
+        "Platelets": 205
+      }
+    ]
+  },
+  {
+    "name": "Mohan Lal",
+    "age": 55,
+    "sex": "M",
+    "etiology": "HBV",
+    "visits": [
+      {
+        "month": 0,
+        "AST": 30,
+        "ALT": 34,
+        "Platelets": 190
+      },
+      {
+        "month": 3,
+        "AST": 32,
+        "ALT": 35,
+        "Platelets": 188
+      },
+      {
+        "month": 6,
+        "AST": 31,
+        "ALT": 33,
+        "Platelets": 190
+      },
+      {
+        "month": 9,
+        "AST": 30,
+        "ALT": 34,
+        "Platelets": 191
+      },
+      {
+        "month": 12,
+        "AST": 29,
+        "ALT": 33,
+        "Platelets": 192
+      }
+    ]
+  },
+  {
+    "name": "Priya Nair",
+    "age": 42,
+    "sex": "F",
+    "etiology": "MASLD",
+    "visits": [
+      {
+        "month": 0,
+        "AST": 52,
+        "ALT": 78,
+        "Platelets": 240
+      },
+      {
+        "month": 4,
+        "AST": 55,
+        "ALT": 80,
+        "Platelets": 235
+      },
+      {
+        "month": 8,
+        "AST": 58,
+        "ALT": 82,
+        "Platelets": 230
+      }
+    ]
+  }
+]

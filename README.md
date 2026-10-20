@@ -5,27 +5,6 @@
 
 ---
 
-## Mandatory Submission Checklist
-
-All twelve items required by the Happiest Health evaluation committee are verified and included below:
-
-| Checklist Item from Submission Form | Corresponding Section in this README | Verification Status |
-| :--- | :--- | :--- |
-| **1. Team details** | [Team Details](#team-details) | Confirmed (Team pr3650882) |
-| **2. College/Incubator information** | [College and Incubator Information](#college-and-incubator-information) | Confirmed (Graphic Era Dehradun) |
-| **3. Project Title** | [Project Title](#project-title) | Confirmed (HepaTwin) |
-| **4. Problem Statement** | [Problem Statement](#problem-statement) | Confirmed (Epidemiology and Clinical Burden) |
-| **5. Healthcare Use Case** | [Healthcare Use Case](#healthcare-use-case) | Confirmed (Chronic Liver Disease & Triage) |
-| **6. Technical Stack** | [Technical Stack](#technical-stack) | Confirmed (React 18, FastAPI, Scikit-learn) |
-| **7. AI/ML Model or Framework Details** | [AI/ML Model or Framework Details](#aiml-model-or-framework-details) | Confirmed (Ensemble, TreeSHAP, Bayesian CIs) |
-| **8. 15-20 minute Demo Video Link** | [15-20 Minute Demo Video Link](#15-20-minute-demo-video-link) | Confirmed (Unlisted YouTube Placeholder) |
-| **9. Open-source License Details** | [Open-source License Details](#open-source-license-details) | Confirmed (MIT License) |
-| **10. Architecture Diagram in PDF/PPT format** | [Architecture Diagram in PDF and PPT Format](#architecture-diagram-in-pdf-and-ppt-format) | Confirmed (docs/ Directory Links) |
-| **11. Presentation in PDF/PPT format** | [Presentation in PDF and PPT Format](#presentation-in-pdf-and-ppt-format) | Confirmed (docs/ Directory Links) |
-| **12. Public Accessibility of Files and Links** | [Public Accessibility of All Files and Links](#public-accessibility-of-all-files-and-links) | Confirmed (100% Repository Relative) |
-
----
-
 ## Project Title
 
 **HepaTwin: Clinical AI/ML Digital Twin for Chronic Hepatitis and Steatohepatitis Progression**  

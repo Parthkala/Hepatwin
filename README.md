@@ -16,14 +16,14 @@ A localized, multimodal digital twin platform for in-silico simulation of hepati
 ## Team Details
 
 * **Team Name:** pr3650882
-* **Team Lead:** ____________________ (Email: ____________________)
+* **Team Lead:** pr3650882@gmail.com
 
-| Member Name | Designated Role | Academic Department | GitHub / Profile URL |
-| :--- | :--- | :--- | :--- |
-| 1. ____________________ | Machine Learning Lead | Computer Science and Engineering | ____________________ |
-| 2. ____________________ | Full-Stack Software Engineer | Information Technology | ____________________ |
-| 3. ____________________ | Biomedical Systems Analyst | Computational Biology | ____________________ |
-| 4. ____________________ | Clinical Informatics Specialist | Data Science and Healthcare AI | ____________________ |
+| Member Name | Academic Department | GitHub / Profile URL |
+| :--- | :--- | :--- |
+| 1. Prachi Rana | Computer Science and Engineering |https://github.com/98-prachi|
+| 2. Parth| Computer Science and Engineering | https://github.com/Parthkala |
+| 3.Dhruv Kathait| Computer Science and Engineering  | ____________________ |
+| 4. Suraj Singh Bhandari | Computer Science and Engineering | https://github.com/surajsbhandaridev-svg |
 
 ---
 

@@ -22,7 +22,7 @@ A localized, multimodal digital twin platform for in-silico simulation of hepati
 | :--- | :--- | :--- |
 | 1. Prachi Rana | Computer Science and Engineering |https://github.com/98-prachi|
 | 2. Parth| Computer Science and Engineering | https://github.com/Parthkala |
-| 3.Dhruv Kathait| Computer Science and Engineering  | ____________________ |
+| 3. Dhruv Kathait| Computer Science and Engineering  | https://github.com/dhruvkathait77 |
 | 4. Suraj Singh Bhandari | Computer Science and Engineering | https://github.com/surajsbhandaridev-svg |
 
 ---

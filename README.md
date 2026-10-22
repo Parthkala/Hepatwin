@@ -16,7 +16,7 @@ A localized, multimodal digital twin platform for in-silico simulation of hepati
 ## Team Details
 
 * **Team Name:** pr3650882
-* **Team Lead:** pr3650882@gmail.com
+* **Team Lead:** Prachi Rana  **Email ID:** pr3650882@gmail.com
 
 | Member Name | Academic Department | GitHub / Profile URL |
 | :--- | :--- | :--- |

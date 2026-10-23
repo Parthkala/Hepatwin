@@ -150,7 +150,7 @@ phi_i(x) = sum_{S subseteq F \ {i}} [ |S|! * (|F| - |S| - 1)! / |F|! ] * [ f_x(S
 
 ## 15-20 Minute Demo Video Link
 
-* **Video Access URL (Unlisted YouTube):** [](https://youtu.be/sr5S5wHpUpc?si=MKkN00k6u2-VTcfC)]
+* **Video Access URL (Unlisted YouTube):** [https://youtu.be/sr5S5wHpUpc?si=MKkN00k6u2-VTcfC]
 * **Target Duration:** 15:00 Minutes (900 Seconds)
 * **Content Structure:**
   1. The Indian Chronic Liver Disease Crisis & Grounding in Happiest Health Prompt (0:00 - 2:30)

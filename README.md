@@ -185,7 +185,8 @@ Publication-grade architecture documentation is stored in the repository `docs/`
 ## Presentation in PDF and PPT Format
 
 Complete presentation documentation covering project details, clinical outcomes, and the complete script:
-* **Presentation Slide Deck (PowerPoint PPTX Format):** []((https://1drv.ms/p/c/de7867f6fcb67ba0/IQApIivSE4d1QZ7v0VPMfo3wAY0qm78CmAjmIFfyw1TFrV4?e=fohy5y))
+* **Presentation Slide Deck (PowerPoint PPTX Format):** [ppt](([HepaTwin_Hackathon_Pitch_v3.pdf](https://github.com/user-attachments/files/33863180/HepaTwin_Hackathon_Pitch_v3.pdf)
+)
 
 *(To regenerate the presentation script PDF programmatically at any time, run: `python scripts/generate_pitch_script_pdf.py`)*
 
